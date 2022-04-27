@@ -7,8 +7,6 @@ coding=utf-8
 
 from chardet import detect
 
-ILE_NAME = "test_file.txt"
-
 
 def get_file_content(file_name):
     """получаем содержимое файла"""
